@@ -86,7 +86,6 @@ form {
 	position: fixed;
 	float: left;
 	width: 20%;
-	border: 20 px solid red;
 }
 @media screen and (max-width: 800px) {
  body{
@@ -99,7 +98,7 @@ form {
 	width:100%;
 	font-size: 0.5em;
  }
-
+}
 
   
 	 
