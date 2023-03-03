@@ -21,7 +21,7 @@ input[type=submit] {
 	font-size: 1.00em;
 	padding: 0.5em;
 	box-sizing: border-box;
-	color:FA8072; ;
+	color:FA8072; 
 	margin-top: 1.5em;
 }
 input[type=submit]:hover {
@@ -60,12 +60,12 @@ input[type=submit]:hover {
   input[type=email] {
     max-width: 100%;
 	font-size:2em;
-	background-color: CD5C5C;
+	background-color: #FFDAB9;
 }
 h1 {
 	font-size: 60px;
 	padding: 30px;
-	background-color: #CD5C5C;
+	background-color: #FFDAB9;
 }
 input, label {
 	display: block;
