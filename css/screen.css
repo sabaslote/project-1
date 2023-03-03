@@ -83,6 +83,9 @@ form {
 	font-size: 20px;
 }
 .elmo {
+	position: fixed;
+	float: left;
+	width: 20%;
 	border: 20 px solid red;
 }
 @media screen and (max-width: 800px) {
