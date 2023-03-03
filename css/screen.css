@@ -24,6 +24,15 @@ input[type=submit] {
 	color:FA8072; 
 	margin-top: 1.5em;
 }
+input[type=enter] {
+	border: 2px solid #A52A2A;
+	width: 10%;
+	font-size: 1.00em;
+	padding: 0.5em;
+	box-sizing: border-box;
+	color:FA8072; 
+	margin-top: 1.5em;
+}
 input[type=submit]:hover {
   background-color: #B2BEB5;
 }
