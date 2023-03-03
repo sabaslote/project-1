@@ -1,5 +1,11 @@
-// jQuery 3.x-style ready event and locally scoped $
-jQuery(function($) {
-  $('html').removeClass('nojs');
-  $('html').addClass('hasjs');
-});
+function init(){
+  function myAlertFunction(){
+    var inputText = document.getElementById('entryinput').value;
+	var output = document.getElementById('textoutput');
+    output.innerHTML = inputText;
+	alert("Member: "+ inputText);
+  }
+  var alertDiv = document.getElementById('entrybutton');
+  alertDiv.addEventListener('click', myAlertFunction);
+}
+window.addEventListener('load', init);
