@@ -1,4 +1,20 @@
-.top {
+html, body {
+	height: 100%;
+}
+body { 
+  background-color: #BC8F8F;
+  font-family: Cambria, Georgia, serif;
+  padding:10px;
+}
+.section-top {
   padding : 2px;
   background-color: #FFFACD;
+  text-align: center;
+  font-size: 20px;
+  border-style: double;
+  margin: auto;
+  width: 80%;
 }
+
+
+  
