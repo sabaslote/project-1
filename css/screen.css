@@ -21,7 +21,7 @@ input[type=submit] {
 	font-size: 1.00em;
 	padding: 0.5em;
 	box-sizing: border-box;
-	color:FA8072; 
+	color:#FA8072; 
 	margin-top: 1.5em;
 }
 input[type=enter] {
@@ -30,7 +30,7 @@ input[type=enter] {
 	font-size: 1.00em;
 	padding: 0.5em;
 	box-sizing: border-box;
-	color:FA8072; 
+	color: #FA8072; 
 	margin-top: 1.5em;
 }
 input[type=submit]:hover {
