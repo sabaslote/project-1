@@ -41,12 +41,13 @@ input[type=submit]:hover {
   background-color: #FA8072;
   width: 25%;
   display: flex; 
-  font-size: 0.90em;
+  font-size: 1.3em;
   text-align: center;
 }
 .section-th {
   background-color: #FFF0F5;
   text-align: center;
+  font-size: 1.3em;
 }
 .sign-up {
   background-color: #FFDAB9;
@@ -65,7 +66,7 @@ input[type=submit]:hover {
 	width: 10%;
 }
 h1 {
-	font-size: 90px;
+	font-size: 75px;
 	padding: 30px;
 	background-color: #FFDAB9;
 }
@@ -82,23 +83,29 @@ form {
 	border-radius: 1.25em;
 }
 .email {
-	font-size: 20px;
+	font-size: 30px;
 }
 .elmo {
-	position: fixed;
-	float: left;
-	width: 20%;
+  position: relative;
+  float: right;
+  width: 15%;
+  height: 250px;
+}
+.hat {
+  position: relative;
+  float: left;
+  width: 15%;
+  height: 250px;
 }
 @media screen and (min-width: 500px) {
  body{
 	text-align: center;
-	width:100%;
+	width:95%;
  }
 @media screen and (min-width: 750px) {
  h1{
 	text-align: center;
-	width:100%;
-	font-size: .90em;
+	width:90%;
  }
 }}}
 
