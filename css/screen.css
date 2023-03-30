@@ -94,9 +94,6 @@ form {
 	text-align: center;
 	width:100%;
  }
- input{
-	 width:90%;
- }
 @media screen and (min-width: 750px) {
  h1{
 	text-align: center;
