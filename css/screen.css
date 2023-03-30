@@ -59,10 +59,10 @@ input[type=submit]:hover {
 }
 .sizefont {
 	color: grey;
-	font-size: 1.5em;
+	font-size: 1.0em;
 	border: 2px solid #A52A2A;
 	padding: 1.2em;
-	width: 10%;
+	width: 90%;
 }
 h1 {
 	font-size: 90px;
